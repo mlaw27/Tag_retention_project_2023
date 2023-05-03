@@ -1,0 +1,163 @@
+paper_id,year,author,taxa,species,common_name_2,water_type,treatment,tag_type,experiment_num,sample_size_n,tag_loss_N,tag_reten_perc,mort_N,mort_perc,exp_duration,tag_length,tag_diam,other_tags_2,incision_size,tag_mass_air,fish_mass_ave,fish_mass_ave_actual,notes
+881,1999,Baras & Westerloppe,Teleost,Heterobranchus longifilis,African Catfish,FW,Age 0_poly,PIT,1,20,2,90,2,10,28,NA,NA,PIT_musc,NA,0.014,1,7.9,Keeping as intracolomic is fine
+881,1999,Baras & Westerloppe,Teleost,Heterobranchus longifilis,African Catfish,FW,Age 1_silk,Dum_Acou,2,10,6,40,2,20,28,NA,NA,PIT_musc,NA,0.02,1,1054,using the upper end of the tag burdens
+881,1999,Baras & Westerloppe,Teleost,Heterobranchus longifilis,African Catfish,FW,Age 1_poly,Dum_Acou,3,10,0,100,0,0,28,NA,NA,PIT_musc,NA,0.02,1,891,"Numbers presented in text, this way its good to go for calc"
+881,1999,Baras & Westerloppe,Teleost,Heterobranchus longifilis,African Catfish,FW,Age 2_silk,Dum_Acou,4,10,1,90,0,0,28,NA,NA,PIT_musc,NA,0.02,1,2850,NA
+881,1999,Baras & Westerloppe,Teleost,Heterobranchus longifilis,African Catfish,FW,Age 2_poly,Dum_Acou,5,10,1,90,0,0,28,NA,NA,PIT_musc,NA,0.02,1,2782,NA
+562,2013,Boone et al.,Chondro,Acipenser baeri,Siberian Sturgeon,FW,control,control,NA,15,NA,NA,NA,NA,385,NA,NA,Pit_anchor,NA,NA,954.7,954.7,Cannot back calculate # lost cause 2 fish were put down but didn’t specificy which
+562,2013,Boone et al.,Chondro,Acipenser baeri,Siberian Sturgeon,FW,Mono_plus,Dum_Acou,1,15,NA,82,NA,NA,385,68,16,Pit_anchor,50,0.02,1,954,NA
+562,2013,Boone et al.,Chondro,Acipenser baeri,Siberian Sturgeon,FW,prolene,Dum_Acou,2,15,NA,75,NA,NA,385,68,16,Pit_anchor,50,0.02,1,954,NA
+562,2013,Boone et al.,Chondro,Acipenser baeri,Siberian Sturgeon,FW,Mono_plus,Dum_Acou,3,15,NA,73,NA,NA,385,68,16,Pit_anchor,50,0.02,1,954,NA
+562,2013,Boone et al.,Chondro,Acipenser baeri,Siberian Sturgeon,FW,vicryl,Dum_Acou,4,15,NA,39,NA,NA,385,68,16,Pit_anchor,50,0.02,1,954,NA
+893,2009,Butler et al.,Teleost,Macquaria novemaculeata,Australian Bass,brack,contol,control,NA,24,NA,NA,0,0,40,NA,NA,PIT_musc,NA,NA,NA,NA,NA
+893,2009,Butler et al.,Teleost,Macquaria novemaculeata,Australian Bass,brack,V13,Dum_Acou,1,24,NA,NA,0,0,40,36,13,Pit_anchor,11,0.0097,1,1250,length from vemco
+893,2009,Butler et al.,Teleost,Myxus petardi,Freshwater Mullet,brack,contol,control,NA,9,NA,NA,1,11.11111111,40,NA,NA,PIT_musc,NA,NA,NA,NA,NA
+893,2009,Butler et al.,Teleost,Myxus petardi,Freshwater Mullet,brack,V9,Dum_Acou,2,9,NA,NA,1,11.11111111,40,24,9,PIT_musc,3.6,0.011,1,398,NA
+893,2009,Butler et al.,Teleost,Myxus petardi,Freshwater Mullet,brack,V13,Dum_Acou,3,9,NA,NA,0,0,40,36,13,PIT_musc,11,0.0155,1,825,NA
+893,2009,Butler et al.,Teleost,Mugil cephalus,Sea Mullet,brack,contol,control,NA,18,NA,NA,0,0,40,NA,NA,PIT_musc,NA,NA,NA,NA,NA
+893,2009,Butler et al.,Teleost,Mugil cephalus,Sea Mullet,brack,V9,Dum_Acou,4,18,NA,NA,0,0,40,24,9,PIT_musc,3.6,0.0111,1,395,NA
+893,2009,Butler et al.,Teleost,Mugil cephalus,Sea Mullet,brack,V13,Dum_Acou,5,18,NA,NA,0,0,40,36,13,PIT_musc,11,0.0186,1,663,NA
+801,2011,Childs et al.,Teleost,Argyrosomus japonicus,Japanese Meagre,brack,control,control,NA,15,NA,NA,0,0,256,NA,NA,N,NA,NA,329,329,NA
+801,2011,Childs et al.,Teleost,Argyrosomus japonicus,Japanese Meagre,brack,9 mm,Dum_Acou,1,15,0,100,1,6.666666667,256,28,9,N,20,3.9,329,329,NA
+801,2011,Childs et al.,Teleost,Argyrosomus japonicus,Japanese Meagre,brack,13 mm,Dum_Acou,2,15,0,100,0,0,256,35,13,N,20,12.7,329,329,NA
+766,2009,Daniel et al.,Teleost,Cyprinus carpio,Common Carp,FW,uncoated,Dum_Acou,1,10,6,40,0,0,365,68,11,N,10,0.0139,1,1848,burden already calcd
+766,2009,Daniel et al.,Teleost,Cyprinus carpio,Common Carp,FW,coated,Dum_Acou,2,10,5,50,0,0,365,68,11,N,10,0.0115,1,2084,NA
+507,2007,Fabrizio & Pessutti,Teleost,Centropristis striata,Black Sea Bass,SW,tag,Dum_Acou,1,47,0,100,1,2.127659574,357,30,9,Anch,25,5,425,425,Using the max monitoring time value here. They present them as medians in text for some reason?
+507,2007,Fabrizio & Pessutti,Teleost,Centropristis striata,Black Sea Bass,SW,control,control,NA,4,NA,NA,NA,NA,359,NA,NA,Anch,NA,NA,264,264,weights were medians
+507,2007,Fabrizio & Pessutti,Teleost,Paralichthys dentatus,Summer Flounder,SW,tag,Dum_Acou,2,37,0,100,4,10.81081081,373,30,9,Anch,25,5,692,692,NA
+507,2007,Fabrizio & Pessutti,Teleost,Paralichthys dentatus,Summer Flounder,SW,control,control,NA,3,NA,NA,NA,NA,352,NA,NA,Anch,NA,NA,1040,1040,NA
+849,2010,Frost et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,Acou tag,Acou,1,82,1,98.7804878,0,0,30,21,7,Pit_unspec,8,0.89,22.2,22.2,Adjusted N's to reflect the jumpers missing
+849,2010,Frost et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,control,control,NA,73,NA,NA,0,0,30,NA,NA,Pit_unspec,8,NA,NA,NA,NA
+849,2010,Frost et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,sham,sham,NA,81,NA,NA,0,0,30,NA,NA,Pit_unspec,8,NA,NA,NA,NA
+565,2019,Gerber et al.,Teleost,Ictalurus furcatus,Blue Catfish,FW,treat 1,Dum_Acou,1,14,0,100,0,0,91,16.5,6,Anch,20,0.0052,1,NA,"TAG to FISH ratio WAS ave 0.52%, made columns sync up so that the calc would prodcue this number in R"
+565,2019,Gerber et al.,Teleost,Ictalurus furcatus,Blue Catfish,FW,treat 2,Dum_Acou,2,14,3,79,3,21,91,16.5,6,Anch,20,0.0052,1,NA,NA
+565,2019,Gerber et al.,Teleost,Ictalurus furcatus,Blue Catfish,FW,treat 3,Dum_Acou,3,14,3,79,0,0,91,16.5,6,Anch,20,0.0052,1,NA,NA
+565,2019,Gerber et al.,Teleost,Ictalurus furcatus,Blue Catfish,FW,treat 4,Dum_Acou,4,14,4,71,1,7,91,16.5,6,Anch,20,0.0052,1,NA,NA
+565,2019,Gerber et al.,Teleost,Ictalurus furcatus,Blue Catfish,FW,sham,sham,NA,14,NA,NA,0,0,91,NA,NA,Anch,20,NA,NA,NA,NA
+864,2014,Harnish et al.,Teloest,Oncorhynchus tshawytscha,Chinook Salmon,FW,lab_tag,Acou,1,126,0,100,1,0.8,60,15,3.3,PIT,3,0.22,NA,NA,They also quanmtifuied in the field but its very probability wise on if its pred vs failure vs loss
+652,2017,Jepsen et al.,Teleost,Salmo trutta,Brown Trout,FW,control,sham,NA,16,NA,NA,NA,NA,20,NA,NA,PIT_cav,2,NA,NA,45.6,"There is mort data but predators were a factor, in ponds"
+652,2017,Jepsen et al.,Teleost,Salmo trutta,Brown Trout,FW,Vicryl,Dum_rad,1,17,2,88,NA,NA,20,25,9,PIT_cav,2,0.021,1,46.5,using the recaps only
+652,2017,Jepsen et al.,Teleost,Salmo trutta,Brown Trout,FW,safil,Dum_rad,2,14,2,86,NA,NA,20,25,9,PIT_cav,2,0.021,1,49.7,Says 'control' but much more of a sham since they were surgimilized
+652,2017,Jepsen et al.,Teleost,Salmo trutta,Brown Trout,FW,histoglue,Dum_rad,3,18,6,67,NA,NA,20,25,9,PIT_cav,2,0.021,1,47.2,NA
+660,2020,Kennedy et al.,Teleost,Salmo trutta,Brown trout,FW,tag,Dum_Acou,1,36,13,63.89,NA,NA,370,25,9,N,10,4,514.2,514.2,May have had effect of stripping tho
+660,2020,Kennedy et al.,Teleost,Salmo trutta,Brown trout,FW,control,control,NA,26,NA,NA,NA,NA,370,NA,NA,N,NA,NA,488.8,488.8,NA
+604,2013,Koeck et al.,Teleost,Diplodus sargus,White Seabream,SW,control,control,NA,7,NA,NA,0,0,48,NA,NA,Anch,NA,NA,NA,171.43,NA
+604,2013,Koeck et al.,Teleost,Diplodus sargus,White Seabream,SW,Acoustic tag,Dum_Acou,1,7,1,85.71428571,0,0,48,NA,NA,Anch,NA,0.0124428571428571,1,154.57,nto using tag parameters (ie diamter/length) as mixed together. They did provide tag % so made a mean there
+640,2011,Loher & Rensmeyer,Teleost,Hippoglossus stenolepis,Pacific Halibut,SW,Archival tag,Ark_tag,1,5,0,100,0,0,410,32,11,N,10,0.0016,1,NA,"as abovce, they presented range of tag/weight, used highest"
+640,2011,Loher & Rensmeyer,Teleost,Hippoglossus stenolepis,Pacific Halibut,SW,control,control,NA,5,NA,NA,0,0,410,NA,NA,NA,NA,NA,NA,NA,NA
+820,2015,Luo et al.,Teleost,Hypophthalmichthys nobilis,Bighead Carp,FW,control,control,NA,54,NA,NA,0,0,56,NA,NA,Pit_unspec,NA,NA,NA,NA,NA
+820,2015,Luo et al.,Teleost,Hypophthalmichthys nobilis,Bighead Carp,FW,sham,sham,NA,54,NA,NA,0,0,56,NA,NA,Pit_unspec,24,NA,NA,NA,NA
+820,2015,Luo et al.,Teleost,Hypophthalmichthys nobilis,Bighead Carp,FW,tag,Dum_Acou,1,54,0,100,0,0,56,29,9,Pit_unspec,24,0.0052,1,908.6,Did do random culling of tagged fish at specified times
+591,2012,Murchie et al.,Teleost,Albula vulpes,Bonefish,SW,20,Acou,1,10,NA,NA,2,20,14,NA,NA,U,NA,NA,NA,NA,NA
+591,2012,Murchie et al.,Teleost,Albula vulpes,Bonefish,SW,22,Acou,2,5,NA,NA,1,20,14,NA,NA,U,NA,NA,NA,NA,Using ones from the graph that I could back calc reliably
+591,2012,Murchie et al.,Teleost,Albula vulpes,Bonefish,SW,23,Acou,3,10,NA,NA,3,30,14,NA,NA,U,NA,NA,NA,NA,NA
+611,2018,Neves et al.,Teleost,Platichthys flesus,European Flounder,SW,control,PIT,1,10,0,100,6,60,33,12,2.12,N,NA,0.889,168,168,NA
+611,2018,Neves et al.,Teleost,Platichthys flesus,European Flounder,SW,V7,Dum_Acou,2,10,0,100,9,90,33,7,20,PIT_cav,20,0.011,1,168,tasg/weight already presemted
+742,2021,Robinson et al.,Teloest,Oncorhynchus tshawytscha,Chinook Salmon,FW,control_cold,control,NA,32,NA,NA,2,6.25,60,NA,NA,N,NA,NA,NA,7,NA
+742,2021,Robinson et al.,Teloest,Oncorhynchus tshawytscha,Chinook Salmon,FW,standard_cold,Acou,1,32,4,87.5,1,3.125,60,10.7,NA,N,6,0.0414,1,7.4,tag/weight data presented in text
+742,2021,Robinson et al.,Teloest,Oncorhynchus tshawytscha,Chinook Salmon,FW,inject_cold,Acou,2,32,1,96.875,0,0,60,15,5.3,N,4,0.031,1,7.2,NA
+742,2021,Robinson et al.,Teloest,Oncorhynchus tshawytscha,Chinook Salmon,FW,control_warm,control,NA,32,NA,NA,0,0,60,NA,NA,N,NA,NA,NA,7.1,NA
+742,2021,Robinson et al.,Teloest,Oncorhynchus tshawytscha,Chinook Salmon,FW,standard_warm,Acou,3,32,6,81.25,0,0,60,10.7,NA,N,6,0.044,1,7,NA
+742,2021,Robinson et al.,Teloest,Oncorhynchus tshawytscha,Chinook Salmon,FW,inject_warm,Acou,4,32,8,75,4,12.5,60,15,5.3,N,4,0.032,1,7,NA
+782,2017,Rozynski et al.,Teleost,Perca fluviatilis,European Perch,FW,PIT only,control,NA,18,NA,NA,0,0,42,12,NA,PIT_musc,NA,0.093,80.92,80.92,NA
+782,2017,Rozynski et al.,Teleost,Perca fluviatilis,European Perch,FW,silk,Dum_Acou,1,18,6,66.66666667,0,0,42,13,5,PIT_musc,15,0.6,77.7,77.7,NA
+782,2017,Rozynski et al.,Teleost,Perca fluviatilis,European Perch,FW,PIT only,control,NA,18,NA,NA,1,5.6,42,12,NA,PIT_musc,NA,0.093,76.79,76.79,NA
+782,2017,Rozynski et al.,Teleost,Perca fluviatilis,European Perch,FW,vetbond,Dum_Acou,2,18,14,22.22222222,1,5.6,42,13,5,PIT_musc,15,0.6,72.44,72.44,NA
+831,2013,Sandstrom et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,control,PIT,1,40,NA,NA,0,0,143,NA,NA,PIT_cav,NA,NA,107.8,107.8,Has info on applying shed rates to field data
+831,2013,Sandstrom et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,V7,Acou,2,40,6,85,0,0,143,22.5,7,PIT_cav,10,0.017,1,108,used two types of sutures in each tagging group
+831,2013,Sandstrom et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,V9,Acou,3,40,10,75,0,0,143,29,9,PIT_cav,10,0.023,1,111.7,provided tag burden in text so manually making it work here
+505,2020,Scheffel et al.,Teleost,Paralichthys lethostigma,Southern Flounder,brack,V9,Acou,1,271,NA,NA,6,2.21402214,30,30,9,Loop,10,2.9,NA,NA,"This looks at confirmed surgery morts but other morts did occur, predation?"
+741,2014,Smircich & Kelly,Teleost,Salvelinus fontinalis,Brook Trout,FW,sham,PIT,1,15,0,100,0,0,33,8,1.4,PIT_cav,10,0.036,134.2,134.2,NA
+741,2014,Smircich & Kelly,Teleost,Salvelinus fontinalis,Brook Trout,FW,ligh tag,Dum_Acou,2,17,2,88.2,0,0,33,23,7,PIT_cav,10,0.047,1,144.2,ratio provided
+741,2014,Smircich & Kelly,Teleost,Salvelinus fontinalis,Brook Trout,FW,heavy tag,Dum_Acou,3,15,12,20,0,0,33,23,7,PIT_cav,10,0.093,1,131.4,NA
+871,2009,Stakenas et al.,Teleost,Lepomis gibbosus,Pumpkinseed,FW,control,control,NA,20,NA,NA,0,0,21,NA,NA,N,NA,NA,29,29,keeping PIT's here as they were inserted intracoloemic
+871,2009,Stakenas et al.,Teleost,Lepomis gibbosus,Pumpkinseed,FW,PIT,PIT,1,20,0,100,2,10,21,12,2,N,NA,0.1,31,31,"Radio here seems fine, no indication of external antenae"
+871,2009,Stakenas et al.,Teleost,Lepomis gibbosus,Pumpkinseed,FW,Dummy radio,Dum_rad,2,20,0,100,1,5,21,14,7,N,6,0.5,37,37,NA
+871,2009,Stakenas et al.,Teleost,Sander lucioperca,Pikeperch,FW,control,control,NA,20,NA,NA,3,15,23,NA,NA,N,NA,NA,362,362,NA
+871,2009,Stakenas et al.,Teleost,Pseudorasbora parva,Topmouth Gudgeon,FW,control,control,NA,25,NA,NA,0,0,20,NA,NA,N,NA,NA,1.4,1.4,NA
+871,2009,Stakenas et al.,Teleost,Pseudorasbora parva,Topmouth Gudgeon,FW,PIT,PIT,4,20,13,35,3,15,20,12,2,N,NA,0.1,2.4,2.4,NA
+564,2020,Tsitrin et al.,Teleost,Alosa pseudoharengus,Alewife,FW,Tag_sut_pre_2018,Dum_Acou,1,10,0,100,0,0,3,12.7,5.8,N,NA,0.77,183,183,NA
+564,2020,Tsitrin et al.,Teleost,Alosa pseudoharengus,Alewife,FW,Tag_sut_pre_2018,Dum_Acou,2,11,0,100,0,0,3,12.7,5.8,N,NA,0.77,232,232,NA
+564,2020,Tsitrin et al.,Teleost,Alosa pseudoharengus,Alewife,FW,Tag_sut_pre_2019,Dum_Acou,3,52,0,100,0,0,1,12.7,5.8,N,NA,0.77,218,218,NA
+564,2020,Tsitrin et al.,Teleost,Alosa pseudoharengus,Alewife,FW,Tag_sut_post_2019,Dum_Acou,4,44,0,100,0,0,1,12.7,5.8,N,NA,0.77,170,170,NA
+579,2016,Urbaniak et al.,Teleost,Oncorhynchus mykiss,Rainbow Trout,FW,control,control,NA,30,NA,NA,4,13.33333333,90,NA,NA,VI,NA,NA,208,208,NA
+579,2016,Urbaniak et al.,Teleost,Oncorhynchus mykiss,Rainbow Trout,FW,sham,sham,NA,30,NA,NA,6,20,90,NA,NA,VI,10,NA,208,208,NA
+579,2016,Urbaniak et al.,Teleost,Oncorhynchus mykiss,Rainbow Trout,FW,tag,Dum_Acou,1,30,8,73.3,12,40,90,24,9,VI,10,3.6,208,208,NA
+810,2012,Weiland et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,"ATS-156 dB,",Acou,1,3880,0,100,4,0.1,1,12.02,5.21,PIT_cav,8,0.438,32.11,32.11,had to round for this one
+810,2012,Weiland et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,"ATS-156 dB,",Acou,2,3885,0,100,4,0.1,1,12.02,5.21,PIT_cav,8,0.438,80,80,had to round for this one
+763,2007,Welch et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,PIT,PIT,1,85,1,98.8,0,0,201,12,NA,N,NA,NA,NA,NA,The controls here sound like PIT tag only fish
+763,2007,Welch et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,acou tag,Dum_Acou,2,83,11,86.7,13,15.7,201,24,8,N,12,1.4,NA,NA,NA
+841,2011,Woodly et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,YCH,control,NA,200,NA,NA,100,50,30,NA,NA,N,NA,NA,NA,NA,mortaility are total mort from table 3.7
+841,2011,Woodly et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,YCH,PIT,1,187,NA,NA,118,63.101604278074866,30,NA,NA,PIT_cav,5,0.085,NA,NA,NA
+841,2011,Woodly et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,YCH,Acou,2,194,NA,NA,120,61.855670103092784,30,NA,NA,PIT_cav,5,0.43,NA,NA,NA
+841,2011,Woodly et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,STH,control,NA,200,NA,NA,137,68.5,30,NA,NA,N,NA,NA,NA,NA,NA
+841,2011,Woodly et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,STH,PIT,3,184,NA,NA,148,80.43478260869566,30,NA,NA,PIT_cav,5,0.085,NA,NA,NA
+841,2011,Woodly et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,STH,Acou,4,192,NA,NA,152,79.16666666666666,30,NA,NA,PIT_cav,5,0.43,NA,NA,NA
+841,2011,Woodly et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,SYC,control,NA,195,NA,NA,126,64.61538461538461,30,NA,NA,N,NA,NA,NA,NA,NA
+841,2011,Woodly et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,SYC,PIT,5,198,NA,NA,124,62.62626262626263,30,NA,NA,PIT_cav,5,0.085,NA,NA,NA
+841,2011,Woodly et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,SYC,Acou,6,200,NA,NA,152,76,30,NA,NA,PIT_cav,5,0.43,NA,NA,tag loss on survivors only
+841,2011,Woodly et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,YCH,Acou,7,74,0,100,NA,NA,30,NA,NA,PIT_cav,5,0.43,NA,NA,NA
+841,2011,Woodly et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,STH,Acou,8,40,0,100,NA,NA,30,NA,NA,PIT_cav,5,0.43,NA,NA,NA
+841,2011,Woodly et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,SYC,Acou,9,48,1,97.9,NA,NA,30,NA,NA,PIT_cav,5,0.43,NA,NA,NA
+666,2015,Yasuda et al.,Teleost,Scomber japonicus,Chub Mackerel,SW,warmA implant,Acou,1,15,0,100,13,86.66666666666667,46,38,11,PIT_musc,20,6.1,428,428,removing as numbers are wonky here
+666,2015,Yasuda et al.,Teleost,Scomber japonicus,Chub Mackerel,SW,warmcontrol,control,NA,15,NA,NA,7,46.666666666666664,46,NA,NA,PIT_musc,NA,NA,486,486,NA
+666,2015,Yasuda et al.,Teleost,Scomber japonicus,Chub Mackerel,SW,warmsham,sham,NA,15,NA,NA,7,46.666666666666664,46,NA,NA,PIT_musc,NA,NA,426,426,NA
+666,2015,Yasuda et al.,Teleost,Scomber japonicus,Chub Mackerel,SW,coldA implant,Acou,2,7,0,100,1,14.285714285714285,50,38,11,PIT_musc,20,6.1,475,475,NA
+666,2015,Yasuda et al.,Teleost,Scomber japonicus,Chub Mackerel,SW,coldB implant,Acou,3,7,0,100,0,0,50,38,11,PIT_musc,20,6.1,485,485,NA
+666,2015,Yasuda et al.,Teleost,Scomber japonicus,Chub Mackerel,SW,coldC implant,Acou,4,8,0,100,0,0,50,38,11,PIT_musc,20,6.1,510,510,NA
+666,2015,Yasuda et al.,Teleost,Scomber japonicus,Chub Mackerel,SW,coldcontrol,control,NA,10,NA,NA,0,0,50,NA,NA,PIT_musc,NA,NA,509,509,NA
+699,2014,Zemeckis et al.,Teleost,Gadus morhua,Atlantic Cod,SW,V16,Acou,1,11,NA,NA,1,9.090909091,NA,98,16,Anch_int,NA,36,NA,NA,No real number of days where they monitored post release mort
+699,2014,Zemeckis et al.,Teleost,Gadus morhua,Atlantic Cod,SW,V16,Acou,2,55,NA,NA,3,5.454545455,NA,98,16,Anch_int,NA,36,NA,NA,most cod also had archioval tag
+699,2014,Zemeckis et al.,Teleost,Gadus morhua,Atlantic Cod,SW,V16,Acou,3,4,NA,NA,0,0,NA,98,16,Anch_int,NA,36,NA,NA,NA
+1273,2019,Brunsdon et al.,Teleost,Salmo salar,Atlantic Salmon,SW,sham,sham,NA,80,NA,NA,5,6.25,406,NA,NA,N,NA,NA,NA,NA,no culmative tag loss presented for each of the tag types
+1273,2019,Brunsdon et al.,Teleost,Salmo salar,Atlantic Salmon,SW,V8_1,Dum_Acou,1,75,NA,NA,6,8,406,20.5,8,PIT_musc,NA,2,NA,NA,NA
+1273,2019,Brunsdon et al.,Teleost,Salmo salar,Atlantic Salmon,SW,V9-1x_1,Dum_Acou,2,76,NA,NA,16,21.052631578947366,406,24,9,PIT_musc,NA,3.6,NA,NA,NA
+1273,2019,Brunsdon et al.,Teleost,Salmo salar,Atlantic Salmon,SW,V9-6x_1,Dum_Acou,3,73,NA,NA,10,13.698630136986301,406,21,9,PIT_musc,NA,2.9,NA,NA,NA
+1273,2019,Brunsdon et al.,Teleost,Salmo salar,Atlantic Salmon,SW,control,control,NA,125,NA,NA,13,10.4,97,NA,NA,VIE,NA,NA,NA,NA,NA
+1273,2019,Brunsdon et al.,Teleost,Salmo salar,Atlantic Salmon,SW,V5,Dum_Acou,4,125,31,75,16,12.8,97,12.7,5,VIE,NA,0.77,NA,NA,"manually adjusted V5 and V8 for roudning error, from 31.25 to 21 and 19.25 to 19"
+1273,2019,Brunsdon et al.,Teleost,Salmo salar,Atlantic Salmon,SW,V7,Dum_Acou,5,125,25,80,19,15.2,97,22.5,7,VIE,NA,1.8,NA,NA,NA
+1273,2019,Brunsdon et al.,Teleost,Salmo salar,Atlantic Salmon,SW,V8,Dum_Acou,6,125,19,85,14,11.200000000000001,97,20.5,8,VIE,NA,2,NA,NA,NA
+1273,2019,Brunsdon et al.,Teleost,Salmo salar,Atlantic Salmon,SW,V9-6x_1,Dum_Acou,7,125,40,68,18,14.399999999999999,97,21,9,VIE,NA,2.9,NA,NA,NA
+1520,2014,Cook et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,Bevel down,Dum_Acou,1,41,3,92.3,2,4.9,21,15,3.4,VIE,NA,0.2,7.4,7.4,"Working backwards on retention, doesn’t appear to be full numbers"
+1520,2014,Cook et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,Bevel up,Dum_Acou,2,42,6,86.1,6,14.3,21,15,3.4,VIE,NA,0.2,7.5,7.5,Rounded where approprite
+1520,2014,Cook et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,Incision,Dum_Acou,3,42,1,97,9,21.5,21,15,3.4,VIE,3,0.2,7.7,7.7,NA
+1520,2014,Cook et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,Marked control,sham,NA,41,NA,NA,4,9.8,21,NA,NA,VIE,NA,NA,NA,NA,NA
+1520,2014,Cook et al.,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,FW,Unmarked control,control,NA,42,NA,NA,4,9.5,21,NA,NA,N,NA,NA,NA,NA,NA
+1203,2017,Ellis et al.,Teleost,Cynoscion nebulosus,Spotted Seatrout,SW,control,control,NA,16,NA,NA,0,0,225,NA,NA,N,NA,NA,NA,NA,NA
+1203,2017,Ellis et al.,Teleost,Cynoscion nebulosus,Spotted Seatrout,SW,V13,Dum_Acou,1,8,1,87.5,0,0,225,36,13,N,NA,0.031,1,326,already calc'd
+1203,2017,Ellis et al.,Teleost,Cynoscion nebulosus,Spotted Seatrout,SW,V16,Dum_Acou,2,4,0,100,0,0,225,68,16,N,NA,0.032,1,427,NA
+1203,2017,Ellis et al.,Teleost,Cynoscion nebulosus,Spotted Seatrout,brack,field,Acou,3,37,NA,NA,0,0,7,36,13,N,NA,0.015,1,741.3,NA
+1203,2017,Ellis et al.,Teleost,Cynoscion nebulosus,Spotted Seatrout,brack,field,Acou,4,10,NA,NA,1,10,7,36,13,N,NA,0.022,1,500.5,NA
+1203,2017,Ellis et al.,Teleost,Cynoscion nebulosus,Spotted Seatrout,brack,field,Acou,5,26,NA,NA,0,0,7,36,13,N,NA,0.016,1,735.9,NA
+1203,2017,Ellis et al.,Teleost,Cynoscion nebulosus,Spotted Seatrout,brack,field,Acou,6,45,NA,NA,0,0,7,NA,NA,N,NA,0.015,1,965.3,this river had a mix of v13 and v16
+1081,2017,Halfyard et al.,Teleost,Oncorhynchus mykiss,Rainbow Trout,FW,Gen1,Acou,1,31,0,100,NA,NA,120,12.7,5.6,N,10,0.65,NA,NA,NA
+1081,2017,Halfyard et al.,Teleost,Oncorhynchus mykiss,Rainbow Trout,FW,Gen2,Acou,2,44,10,77,NA,NA,66,12.7,5.6,N,10,0.65,NA,NA,NA
+1200,2008,Karam et al.,Teleost,Xyrauchen texanus,Razorback Sucker,FW,IBT-96-6-I,Acou,1,20,0,100,0,0,92,42,11,Pit_unspec,20,7.4,NA,NA,length info from 2020 product catlogue
+1200,2008,Karam et al.,Teleost,Xyrauchen texanus,Razorback Sucker,FW,control,control,NA,23,NA,NA,0,0,92,NA,NA,Pit_unspec,NA,NA,NA,NA,NA
+1867,2021,McKenna et al.,Teleost,Coregonus artedi,Cisco,FW,L-AMT-1.421,Acou,1,85,2,97.65,15,17.6,30,11.1,5.5,N,6,0.024,1,12.5,"tag loss here is survivors, based on that small tag is 1.68 and large tag is 3.22. Together that adds up to 5 as reported in the results"
+1867,2021,McKenna et al.,Teleost,Coregonus artedi,Cisco,FW,L-AMT-5.1B,Acou,2,65,5,92.31,19,29.6,30,13,7,N,6,0.07,1,12.8,had to round mort values
+1867,2021,McKenna et al.,Teleost,Coregonus artedi,Cisco,FW,Control,control,NA,90,NA,NA,0,0,30,NA,NA,N,NA,NA,NA,14.3,"Sitting here and the mort data for the tagged fish doesn’t jive with with whats beeing said in text. Back calcing, you get 116 survivors (34 morts) whereas in text it says 112 surviors and 38 morts."
+1867,2021,McKenna et al.,Teleost,Coregonus artedi,Cisco,FW,sham,sham,NA,30,NA,NA,3,10,30,NA,NA,N,6,NA,NA,11.6,Controsl and sham percents to number match up so that’s all good. I trust those.
+1867,2021,McKenna et al.,Teleost,Coregonus artedi,Cisco,FW,anest,sham,NA,30,NA,NA,1,3.3,30,NA,NA,n,NA,NA,NA,12.1,Tag burden calc'd
+1419,2007,Melnychuk et al.,Teleost,Oncorhynchus mykiss,Steelhead Trout,FW,V8,Acou,3,42,0,100,0,0,5,20,9,N,NA,0.05,1,NA,tag burden calc'd
+1102,2019,Mueller et al.,Agnathan,Entosphenus tridentatus,Pacific Lamprey,FW,Control,control,NA,52,NA,NA,5,9.6,28,NA,NA,N,NA,NA,NA,NA,back cal'd sample sizes
+1102,2019,Mueller et al.,Agnathan,Entosphenus tridentatus,Pacific Lamprey,FW,tag,Acou,1,49,2,95.9,7,14.3,28,12,2,N,3,0.08,NA,NA,NA
+1102,2019,Mueller et al.,Teleost,Anguilla rostrata,American Eel,FW,tag,Acou,2,26,1,96.2,0,0,38,12,2,N,3,0.08,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,tag,Dum_Acou,1,30,4,86.7,4,13.3,14,20,7,N,12,1.6,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,control,control,NA,30,NA,NA,0,0,14,NA,NA,N,NA,NA,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,control_sed,control,NA,30,NA,NA,0,0,14,NA,NA,N,NA,NA,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,tag_hid,Dum_Acou,2,30,0,100,0,0,14,20,7,N,12,1.6,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,sham_hid,sham,NA,30,NA,NA,0,0,14,NA,NA,N,NA,NA,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,control_no_sed_hid,control,NA,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,tag_dept,Dum_Acou,3,30,1,96.7,0,0,14,20,7,N,12,1.6,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,sham_dept,sham,NA,30,NA,NA,0,0,14,NA,NA,N,NA,NA,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,control_no_sed,control,NA,30,NA,NA,0,0,14,NA,NA,N,NA,NA,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,control,control,NA,30,NA,NA,0,0,14,NA,NA,N,NA,NA,NA,NA,NA
+1543,2015,Neville & Beamish,Teleost,Oncorhynchus tshawytscha,Chinook Salmon,SW,control_hid,control,NA,30,NA,NA,0,0,14,NA,NA,N,NA,NA,NA,NA,NA
+1697,2010,Seitz et al,Teleost,Clupea palasii,Pacific Herring,SW,control,control,NA,25,NA,NA,0,0,135,NA,NA,N,NA,NA,94.7,94.7,NA
+1697,2010,Seitz et al,Teleost,Clupea palasii,Pacific Herring,SW,sham,sham,NA,24,NA,NA,0,0,135,NA,NA,N,NA,NA,91.5,91.5,NA
+1697,2010,Seitz et al,Teleost,Clupea palasii,Pacific Herring,SW,V7,Acou,1,50,1,98,2,4,135,18,7,N,12,0.7,93.4,93.4,NA
+1697,2010,Seitz et al,Teleost,Clupea palasii,Pacific Herring,SW,V9,Acou,2,50,3,94,2,4,135,21,9,N,12,1.6,95.1,95.1,NA
+1531,2009,Thorstad et al,Teleost,Pomatomus salatrix,Bluefish,SW,control,control,NA,12,NA,NA,3,25,144,NA,NA,PIT_musc,NA,NA,NA,343,tag burden calc'd
+1531,2009,Thorstad et al,Teleost,Pomatomus salatrix,Bluefish,SW,small,Dum_Acou,1,13,0,100,1,7.6923076923076925,144,28,9,PIT_musc,15,0.011,1,343,NA
+1531,2009,Thorstad et al,Teleost,Pomatomus salatrix,Bluefish,SW,large,Dum_Acou,2,13,0,100,1,7.6923076923076925,144,50,13,PIT_musc,20,0.021,1,343,NA
